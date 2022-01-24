@@ -1,4 +1,4 @@
-FROM ghcr.io/diesdasdigital/morpheme:v0.0.13
+FROM ghcr.io/diesdasdigital/morpheme:v1.0.0
 
 COPY replacements.json .
 COPY config.json .
